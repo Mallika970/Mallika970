@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning SQL
 
 - 📫 How to reach me mallikajonnalagadda376@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: English , Telugu and Hindi
+- ⚡ Fun fact: 
 
 <!---
 Mallika970/Mallika970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
